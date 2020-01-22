@@ -1,0 +1,27 @@
+{
+  "name": "bucket-list",
+  "version": "1.0.0",
+  "description": "angular 2 mvc mean stack app",
+  "main": "app.js",
+  "scripts": {
+    
+	"start": "node app.js"
+	
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://chrisYoder:#E4r5t6y7u8i@github.com/chrisYoder/sitepoint-mean-stack.git"
+  },
+  "keywords": [
+    "angular",
+    "mean"
+  ],
+  "author": "theCodingStoic",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.9"
+  }
+}
